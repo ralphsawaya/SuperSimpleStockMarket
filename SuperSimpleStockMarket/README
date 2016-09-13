@@ -1,0 +1,4 @@
+1) I developed this project with Eclipse. Feel free to download and test.
+2) I suggest first to check the Class Diagram SuperSimpleStockMarket/stockMarketUML. I used ObjectAid UML plugin.
+3) I did not create a main class. I just used the Unit tests to test my program. Unit tests are under package: SuperSimpleStockMarket/com.simplestockmarket.test
+
